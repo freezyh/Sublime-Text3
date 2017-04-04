@@ -1,6 +1,6 @@
 # 基本
 
-#### Sublime text 3 中Package Control的安装与使用方法
+## Sublime text 3 中Package Control的安装与使用方法
 
 因为在线安装容易出问题，所以采用手动安装
 
