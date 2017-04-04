@@ -1,4 +1,7 @@
-# Sublime-Text3 记录常用基本知识
+# Sublime-Text3 注册
+
+
+如下第一个注册码亲测能用
 
 <pre>
 
@@ -59,4 +62,3 @@ E585BBA1 2538C270 E2E857C2 194283CA
 —— END LICENSE ——
 
 </pre>
-
