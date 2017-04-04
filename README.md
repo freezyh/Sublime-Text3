@@ -1,7 +1,7 @@
 # Sublime-Text3 注册
 
 
-如下第一个注册码亲测能用,其他基本用法参考<font color=Red>base.md</font>
+如下第一个注册码亲测能用,其他基本用法参考`base.md`
 
 <pre>
 
