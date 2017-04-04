@@ -1,7 +1,7 @@
 # Sublime-Text3 记录常用基本知识
 
 <pre>
- 
+
 —– BEGIN LICENSE —–
 Michael Barnes
 Single User License
@@ -59,3 +59,4 @@ E585BBA1 2538C270 E2E857C2 194283CA
 —— END LICENSE ——
 
 </pre>
+
