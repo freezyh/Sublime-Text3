@@ -26,3 +26,7 @@ Package Control 主文件下载
 ## 3. sublimet text3 编辑markdown
 需要下载安装Markdown Editing和Markdown Preview 插件，这里就不多说了，直接看博客走起 
 http://www.cnblogs.com/IPrograming/p/Sublime-markdown-editor.html
+
+## 4. DocBlockr与javascript注释规范
+安装插件DocBlockr
+http://www.ithao123.cn/content-719950.html
