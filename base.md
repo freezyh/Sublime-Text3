@@ -18,4 +18,7 @@ Package Control 主文件下载
 5. 快捷键 Ctrl+Shift+P（菜单 – Tools – Command Paletter），输入 install 选中Install Package并回车，输入或选择你需要的插件回车就安装了（注意左下角的小文字变化，会提示安装成功）。
 
 
-###
+## 打开GBK编码的文件乱码？
+1. 在菜单->preferences->Package Settings->Settings - User
+2. 点击Package Control，上面会出来一个输入框，我们输入install，就会自动有提示那个install package，我们点击一下install package，输入框会消失，稍等一下又会弹出个输入框。
+3. 输入ConvertToUTF8点击下载，重启下Sublime Text 3
