@@ -30,3 +30,6 @@ http://www.cnblogs.com/IPrograming/p/Sublime-markdown-editor.html
 ## 4. DocBlockr与javascript注释规范
 安装插件DocBlockr
 http://www.ithao123.cn/content-719950.html
+
+## 5. 安装文件模板SublimeTmpl
+很多时候我们需要写个快速写个demo,比如一个页面，我们写个测试之类的，总不能一个个重新写或者复制原来的项目，因为这里强调的是快速，所以我们可以安装SublimeTmpl插件，安装的方法还是跟以前一样。安装完以后，File->New File(SublimeTmpl)里面提供了hmtl、javascript、php的模板
