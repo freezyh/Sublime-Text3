@@ -36,3 +36,6 @@ http://www.ithao123.cn/content-719950.html
 
 ## 6. 安装angularjs插件
 为了方便快速的敲出angularjs的指令，我们可以也可以安装angularjs插件，但是并不是适用所有angularjs的指令，但应该满足了基本的指令，提高效率还是不错的。
+
+## 7.安装Emmet插件
+参照http://www.cnblogs.com/tinyphp/p/3217457.html
